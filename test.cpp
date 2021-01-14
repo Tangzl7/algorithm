@@ -9,6 +9,7 @@ struct ListNode {
 class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
+    	cout << "master branch" << endl;
     	return head;
     }
 };
