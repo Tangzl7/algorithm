@@ -1,15 +1,21 @@
+#include <bits/stdc++.h>
+using namespace std;
 
-struct ListNode {
-    int val;
-    ListNode *next;
-    ListNode() : val(0), next(nullptr) {}
-    ListNode(int x) : val(x), next(nullptr) {}
-    ListNode(int x, ListNode *next) : val(x), next(next) {}
-};
 class Solution {
 public:
-    ListNode* swapNodes(ListNode* head, int k) {
-    	cout << "master branch" << endl;
-    	return head;
+    bool isPalindrome(int x) {
+    	int y = 0;
+    	if (x < 0) return false;
+    	while(x > y) {
+    		y = y*10 + x%10;
+    		x /= 10;
+    	}
+    	if (x == y || x == y/10) return true;
+    	return false;
     }
 };
+
+int main() {
+	printf("%d\n", "21" < "3");
+	return 0;
+}

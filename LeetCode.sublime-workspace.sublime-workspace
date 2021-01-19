@@ -1,0 +1,1042 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mid",
+				"mid2"
+			],
+			[
+				"inde",
+				"index2"
+			],
+			[
+				"num",
+				"nums1"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"len",
+				"len1"
+			],
+			[
+				"index",
+				"index1"
+			],
+			[
+				"res",
+				"resutl"
+			],
+			[
+				"l",
+				"len2"
+			],
+			[
+				"nums",
+				"nums2"
+			],
+			[
+				"nu",
+				"nums1"
+			],
+			[
+				"tm",
+				"tmp2"
+			],
+			[
+				"fin",
+				"find_root"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"EXELH",
+				"EXE_LHU_OP"
+			],
+			[
+				"data",
+				"data_size_r"
+			],
+			[
+				"cacheda",
+				"cache_data_addr_ok"
+			],
+			[
+				"isin",
+				"is_in_delayslotD"
+			],
+			[
+				"sof",
+				"soft_pc_in"
+			],
+			[
+				"exce",
+				"excepttype_i"
+			],
+			[
+				"stat",
+				"status_o"
+			],
+			[
+				"inst_req",
+				"inst_req_3"
+			],
+			[
+				"inst",
+				"inst_req_2"
+			],
+			[
+				"fl",
+				"flush_except"
+			],
+			[
+				"stall",
+				"sram_stall"
+			],
+			[
+				"datasr",
+				"data_sram_wen"
+			],
+			[
+				"data_sramw",
+				"data_sram_wen"
+			],
+			[
+				"inst_addr",
+				"inst_addr_ok"
+			],
+			[
+				"stallf",
+				"stallreq_from_mem"
+			],
+			[
+				"cp0w",
+				"cp0_writeW"
+			],
+			[
+				"cp0write",
+				"cp0_writeE"
+			],
+			[
+				"divst",
+				"divstartE"
+			],
+			[
+				"jal",
+				"jalM"
+			],
+			[
+				"regw",
+				"regwrite"
+			],
+			[
+				"writereg",
+				"writeregW"
+			],
+			[
+				"ca",
+				"cause_i"
+			],
+			[
+				"sta",
+				"status_i"
+			],
+			[
+				"memwr",
+				"memwriteM"
+			],
+			[
+				"adel",
+				"adelE"
+			],
+			[
+				"EXE_LH",
+				"EXE_LHU_OP"
+			],
+			[
+				"instr",
+				"instrM"
+			],
+			[
+				"sub",
+				"sub_result_tmp"
+			],
+			[
+				"flus",
+				"flushM"
+			],
+			[
+				"cp0_write",
+				"cp0_writeE"
+			],
+			[
+				"excepttype_",
+				"excepttype_in"
+			],
+			[
+				"ex",
+				"excepttype_i"
+			],
+			[
+				"new",
+				"new_pc"
+			],
+			[
+				"divs",
+				"divstall"
+			],
+			[
+				"alus",
+				"alu_srcB"
+			],
+			[
+				"divo",
+				"div_opdata_1"
+			],
+			[
+				"debu",
+				"debug_pcW"
+			],
+			[
+				"debug",
+				"debug_pcM"
+			],
+			[
+				"debg",
+				"debug_pcE"
+			],
+			[
+				"debugpc",
+				"debug_pcE"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"newp",
+				"new_pcM"
+			],
+			[
+				"flush",
+				"flushW"
+			],
+			[
+				"flsuh",
+				"flushW"
+			],
+			[
+				"flushe",
+				"flush_except"
+			],
+			[
+				"flu",
+				"flush_except"
+			],
+			[
+				"epc",
+				"epc_o"
+			],
+			[
+				"h",
+				"h0000000e"
+			],
+			[
+				"h0",
+				"h0000000c"
+			],
+			[
+				"h00",
+				"h0000000a"
+			],
+			[
+				"is_in_delayslot",
+				"is_in_delayslotD"
+			],
+			[
+				"time",
+				"timer_int_o"
+			],
+			[
+				"con",
+				"config_o"
+			],
+			[
+				"bad",
+				"badvaddr"
+			],
+			[
+				"case",
+				"cause_o"
+			],
+			[
+				"cas",
+				"cause_o"
+			],
+			[
+				"st",
+				"status_o"
+			],
+			[
+				"et",
+				"excepttype"
+			],
+			[
+				"exc",
+				"except"
+			],
+			[
+				"ade",
+				"adel"
+			],
+			[
+				"ins",
+				"instr_valid"
+			],
+			[
+				"al",
+				"alucontrol"
+			],
+			[
+				"cp",
+				"cp0_writeM"
+			],
+			[
+				"cpw",
+				"cp0_writeE"
+			],
+			[
+				"memr",
+				"mem_read_data"
+			],
+			[
+				"mem",
+				"mem_read_data"
+			],
+			[
+				"dataram",
+				"data_ram_read"
+			],
+			[
+				"EXEDIV",
+				"EXE_DIVU"
+			],
+			[
+				"divsi",
+				"divsign"
+			],
+			[
+				"divhi",
+				"div_hi"
+			],
+			[
+				"hil",
+				"hilowriteE"
+			],
+			[
+				"EXE",
+				"EXE_NOP"
+			],
+			[
+				"readl",
+				"readlines\tfunction"
+			],
+			[
+				"train",
+				"train_data\tstatement"
+			],
+			[
+				"tes",
+				"test_data"
+			],
+			[
+				"lab",
+				"labels\tstatement"
+			],
+			[
+				"mi",
+				"min_gini\tstatement"
+			],
+			[
+				"da",
+				"data_feature_value\tstatement"
+			],
+			[
+				"fe",
+				"feature_value\tstatement"
+			],
+			[
+				"fea",
+				"feature_value"
+			],
+			[
+				"getf",
+				"get_feature_value_continue"
+			],
+			[
+				"set",
+				"set_left_child\tfunction"
+			],
+			[
+				"feat",
+				"features_used\tparam"
+			],
+			[
+				"shu",
+				"shuffle_data\tfunction"
+			],
+			[
+				"ran",
+				"randint\tfunction"
+			],
+			[
+				"get",
+				"get_aggregation\tfunction"
+			],
+			[
+				"max",
+				"max_index\tstatement"
+			],
+			[
+				"w",
+				"weights\tstatement"
+			],
+			[
+				"del",
+				"delta_b\tstatement"
+			],
+			[
+				"lay",
+				"layers_a\tstatement"
+			],
+			[
+				"seu",
+				"squeeze\tfunction"
+			],
+			[
+				"delta",
+				"delta_w\tstatement"
+			],
+			[
+				"la",
+				"layer\tstatement"
+			],
+			[
+				"sig",
+				"sigmoid_derivative\tfunction"
+			],
+			[
+				"getg",
+				"get_gini\tfunction"
+			],
+			[
+				"trans",
+				"transfer_sum\tstatement"
+			],
+			[
+				"wor",
+				"words_list\tstatement"
+			],
+			[
+				"tran",
+				"transfer_sum\tstatement"
+			],
+			[
+				"pr",
+				"print\tfunction"
+			],
+			[
+				"js",
+				"json_str\tstatement"
+			],
+			[
+				"wo",
+				"words\tstatement"
+			],
+			[
+				"mx",
+				"max_prob\tstatement"
+			],
+			[
+				"ini",
+				"init_road\tfunction"
+			],
+			[
+				"road",
+				"road_node\tstatement"
+			],
+			[
+				"nex",
+				"next_state\tstatement"
+			],
+			[
+				"prob",
+				"prob_result"
+			],
+			[
+				"sl",
+				"self"
+			],
+			[
+				"all",
+				"allow_pickle=\tparam"
+			],
+			[
+				"pin",
+				"pinyin_word\tparam"
+			],
+			[
+				"worp",
+				"word_pinyin_cnt\tstatement"
+			],
+			[
+				"wop",
+				"word_pinyin_cnt\tstatement"
+			],
+			[
+				"lex",
+				"lexicon_data"
+			],
+			[
+				"def",
+				"defaultdict\tclass"
+			],
+			[
+				"re",
+				"readlines\tfunction"
+			],
+			[
+				"pob",
+				"probs\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "class Solution {\npublic:\n    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {\n    \tint len1 = nums1.size();\n    \tint len2 = nums2.size();\n    \tint mid1 = (len1+len2)%2 ? (len1+len2)/2:(len1+len2)/2-1;\n    \tint mid2 = (len1+len2)/2;\n    \tint index1=0, index2=0;\n    \tvector<int> resutl;\n    \tfor (int i = 0; i < (len1+len2); i++) {\n    \t\tif (index1 == len1 && index2 < len2) {\n    \t\t\tfor (int j=index2; j<len2; j++) {\n    \t\t\t\tresutl.push_back(nums2[j]);\n    \t\t\t}\n    \t\t\tbreak;\n    \t\t}\n    \t\tif (index2 == len2 && index1 < len1) {\n    \t\t\tfor (int j=index1; j<len1; j++) {\n    \t\t\t\tresutl.push_back(nums1[j]);\n    \t\t\t}\n    \t\t\tbreak;\n    \t\t}\n    \t\tif (index1 == len1 && index2 == len2) break;\n    \t\tif (nums1[index1] <= nums2[index2]) {\n    \t\t\tresutl.push_back(nums1[index1]);\n    \t\t\tindex1++;\n    \t\t}\n    \t\telse {\n    \t\t\tresutl.push_back(nums2[index2]);\n    \t\t\tindex2++;\n    \t\t}\n    \t}\n    \treturn (resutl[mid1]+resutl[mid2])*1.0/2;\n    }\n};",
+			"file": "test.cpp",
+			"file_size": 826,
+			"file_write_time": 132552351269815378,
+			"settings":
+			{
+				"buffer_size": 960,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"convertto",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"verilog",
+				"Set Syntax: Verilog"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"a",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"anaconda disa",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"anaconda",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"terminusk ",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus open",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"terminus ke",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				" terminus key",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"terminus",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"terminnal",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"a file icon",
+				"A File Icon: Revert to a Freshly Installed State"
+			],
+			[
+				"a file i",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"sidbar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"scheme",
+				"UI: Select Theme"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 316.0,
+		"history":
+		[
+			"print(a)",
+			"a = 2",
+			"make",
+			"123 4"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode"
+	],
+	"file_history":
+	[
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/LeetCode.sublime-workspace.sublime-project",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/数论/模运算/1018easy.cpp",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/图论/并查集/1722medium.cpp",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/program",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/program.cpp",
+		"/home/tangzl/cqu/projects/python_projects/studentscore/data/result.csv",
+		"/home/tangzl/cqu/projects/verilog_projects/n4ddr/perf_test_v0.01/soc_axi_perf/rtl/myCPU/inst_sram_o.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/data_sram_o.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/rtl/myCPU/defines.vh",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/rtl/myCPU/alu.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/rtl/myCPU/alu_dec.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/rtl/myCPU/main_dec.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_funt_2/rtl/myCPU/mycpu_top.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_funt_2/rtl/myCPU/mips.v",
+		"/home/tangzl/cqu/projects/verilog_projects/n4ddr/perf_test_v0.01/soc_axi_perf/rtl/myCPU/data_sram_o.v",
+		"/home/tangzl/cqu/projects/verilog_projects/n4ddr/perf_test_v0.01/soc_axi_perf/rtl/myCPU/datapath.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/bridge_2x1.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/datapath.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/bridge_1x2.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/d_cache.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/testbench/mycpu_tb.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/alu.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/mmu.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/mips.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/controller.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/inst_sram_o.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/mycpu_top.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/mmu",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/d_cache",
+		"/home/tangzl/cqu/projects/verilog_projects/n4ddr/perf_test_v0.01/soc_axi_perf/rtl/myCPU/exception.v",
+		"/home/tangzl/cqu/projects/verilog_projects/n4ddr/perf_test_v0.01/soc_axi_perf/rtl/myCPU/main_dec.v",
+		"/home/tangzl/cqu/projects/verilog_projects/n4ddr/perf_test_v0.01/soc_axi_perf/rtl/myCPU/mips.v",
+		"/home/tangzl/cqu/projects/verilog_projects/n4ddr/perf_test_v0.01/soc_axi_perf/rtl/myCPU/controller.v",
+		"/home/tangzl/cqu/projects/verilog_projects/n4ddr/perf_test_v0.01/soc_axi_perf/rtl/myCPU/alu.v",
+		"/home/tangzl/cqu/projects/verilog_projects/n4ddr/perf_test_v0.01/soc_axi_perf/rtl/soc_axi_lite_top.v",
+		"/home/tangzl/cqu/projects/verilog_projects/n4ddr/perf_test_v0.01/soc_axi_perf/rtl/myCPU/mycpu_top.v",
+		"/home/tangzl/cqu/projects/verilog_projects/n4ddr/perf_test_v0.01/soc_axi_perf/rtl/myCPU/d_cache.v",
+		"/home/tangzl/cqu/projects/verilog_projects/n4ddr/perf_test_v0.01/soc_axi_perf/rtl/myCPU/hazard.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/hazard.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/rtl/myCPU/datapath.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/rtl/myCPU/mips.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/rtl/myCPU/controller.v",
+		"/home/tangzl/cqu/projects/verilog_projects/n4ddr/func_test_v0.01/soc_sram_func/rtl/myCPU/controller.v",
+		"/home/tangzl/cqu/projects/verilog_projects/n4ddr/func_test_v0.01/soc_sram_func/rtl/myCPU/datapath.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/rtl/myCPU/hazard.v",
+		"/home/tangzl/cqu/projects/verilog_projects/n4ddr/func_test_v0.01/soc_sram_func/rtl/myCPU/hazard.v",
+		"/home/tangzl/cqu/projects/verilog_projects/n4ddr/func_test_v0.01/soc_sram_func/rtl/myCPU/cp0_reg.v",
+		"/home/tangzl/cqu/projects/verilog_projects/n4ddr/func_test_v0.01/soc_sram_func/rtl/myCPU/mips.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/cp0_reg.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/pc.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/pc_flop.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/rtl/myCPU/pc_flop.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/rtl/myCPU/pc.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/myCPU/sram_o.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_axi_func/rtl/CONFREG/confreg.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/testbench/mycpu_tb.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/rtl/myCPU/hilo_reg.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/rtl/myCPU/mem_write_data.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/rtl/myCPU/exception.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/rtl/myCPU/mem_read_data.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/rtl/myCPU/div.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/rtl/soc_lite_top.v",
+		"/home/tangzl/cqu/projects/verilog_projects/MIPS_CPU/cpu.srcs/sources_1/new/top.v",
+		"/home/tangzl/cqu/projects/verilog_projects/soc_sram_func/rtl/myCPU/mux3.v",
+		"/home/tangzl/cqu/projects/verilog_projects/MIPS_CPU/cpu.srcs/sources_1/new/hazard.v",
+		"/home/tangzl/cqu/projects/verilog_projects/MIPS_CPU/cpu.srcs/sources_1/new/regfile.v",
+		"/home/tangzl/cqu/projects/verilog_projects/MIPS_CPU/cpu.srcs/sources_1/new/main_dec.v",
+		"/home/tangzl/cqu/projects/verilog_projects/cpu/cpu.srcs/sources_1/new/alu.v",
+		"/home/tangzl/cqu/projects/verilog_projects/cpu/cpu.srcs/sources_1/new/mem_write_data.v",
+		"/home/tangzl/cqu/projects/verilog_projects/cpu/cpu.srcs/sources_1/new/mem_read_data.v",
+		"/home/tangzl/cqu/projects/verilog_projects/cpu/cpu.srcs/sources_1/new/controller.v",
+		"/home/tangzl/cqu/projects/verilog_projects/cpu/cpu.srcs/sources_1/new/top.v",
+		"/home/tangzl/cqu/projects/verilog_projects/cpu/cpu.srcs/sources_1/new/hazard.v",
+		"/home/tangzl/cqu/projects/verilog_projects/cpu/cpu.srcs/sources_1/new/hilo_reg.v",
+		"/home/tangzl/下载/CRUD.java",
+		"/home/tangzl/cqu/projects/verilog_projects/cpu/cpu.srcs/sources_1/new/load_mem_rdata.v",
+		"/home/tangzl/cqu/projects/verilog_projects/cpu/cpu.srcs/sources_1/new/defines2.vh",
+		"/home/tangzl/cqu/projects/verilog_projects/cpu/cpu.srcs/sources_1/new/div.v",
+		"/home/tangzl/cqu/projects/verilog_projects/cpu/cpu.srcs/sources_1/new/defines.vh",
+		"/home/tangzl/cqu/projects/verilog_projects/cpu/cpu.srcs/sim_1/new/testbench.v",
+		"/home/tangzl/cqu/ucore/LAB_CQU/LAB_CQU/LAB4_1/kern/process/proc.c",
+		"/home/tangzl/cqu/ucore/LAB_CQU/LAB_CQU/LAB4_1/kern/fs/sfs/sfs_inode.c",
+		"/home/tangzl/cqu/ucore/LAB_CQU/LAB_CQU/LAB4_1/kern/fs/sfs/sfs_lock.c",
+		"/home/tangzl/cqu/ucore/LAB_CQU/LAB_CQU/LAB3_1/kern/mm/pmm.c",
+		"/home/tangzl/cqu/ucore/LAB_CQU/LAB_CQU/LAB3_1/kern/process/proc.c",
+		"/home/tangzl/cqu/ucore/LAB_CQU/LAB_CQU/LAB4_1/kern/mm/pmm.c",
+		"/home/tangzl/cqu/ucore/LAB_CQU/LAB_CQU/LAB3_1/user/exit.c",
+		"/home/tangzl/cqu/ucore/LAB_CQU/LAB_CQU/LAB3_1/kern/mm/vmm.c",
+		"/home/tangzl/cqu/ucore/LAB_CQU/LAB_CQU/LAB3_1/kern/trap/trap.c",
+		"/home/tangzl/cqu/ucore/LAB_CQU/LAB_CQU/LAB3_1/kern/mm/default_pmm.c",
+		"/home/tangzl/cqu/ucore/ucore-master/labcodes_answer/lab8_result/kern/mm/memlayout.h",
+		"/home/tangzl/cqu/ucore/ucore-master/labcodes_answer/lab8_result/kern/fs/sfs/sfs.h",
+		"/home/tangzl/cqu/ucore/ucore-master/labcodes_answer/lab8_result/kern/fs/vfs/inode.h",
+		"/home/tangzl/cqu/ucore/LAB_CQU/LAB_CQU/LAB3_1/kern/debug/kdebug.c",
+		"/home/tangzl/cqu/ucore/ucore-master/labcodes_answer/lab8_result/kern/fs/vfs/vfsdev.c",
+		"/home/tangzl/cqu/ucore/ucore-master/labcodes_answer/lab8_result/kern/fs/sfs/sfs_inode.c",
+		"/home/tangzl/cqu/ucore/ucore-master/labcodes_answer/lab8_result/kern/fs/file.c",
+		"/home/tangzl/cqu/ucore/ucore-master/labcodes_answer/lab8_result/kern/fs/file.h",
+		"/home/tangzl/cqu/ucore/ucore-master/labcodes_answer/lab8_result/kern/fs/fs.h",
+		"/home/tangzl/cqu/projects/python_projects/machinelearning/CART/test.py",
+		"/home/tangzl/cqu/projects/python_projects/machinelearning/CART/Iris.csv",
+		"/home/tangzl/cqu/projects/python_projects/machinelearning/LogisticRegression/logistic_regression_iris.py",
+		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/测试集.txt",
+		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/parameter/words_transfer_prob.json",
+		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/parameter/init_prob_1.json",
+		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/parameter/words_transfer_prob_1.json",
+		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/Viterbi.py",
+		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/HMM.py",
+		"/home/tangzl/cqu/projects/python_projects/machinelearning/LogisticRegression/logistic_regression_watermelon.py",
+		"/home/tangzl/cqu/projects/python_projects/machinelearning/CART/cart.py",
+		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/test.py",
+		"/home/tangzl/cqu/projects/python_projects/machinelearning/CART/test",
+		"/home/tangzl/cqu/projects/python_projects/machinelearning/BP/bp.py",
+		"/home/tangzl/cqu/projects/python_projects/machinelearning/BP/test.py",
+		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/tou.txt",
+		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/parameter/transfer_probability.txt",
+		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/pinyin2hanzi.txt",
+		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/parameter/emissions.txt",
+		"/home/tangzl/cqu/projects/python_projects/fpga/lab2.py",
+		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/lexicon.txt",
+		"/home/tangzl/下载/lexicon.txt",
+		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/toutiao_data.txt",
+		"/home/tangzl/cqu/projects/python_projects/nlp",
+		"/home/tangzl/cqu/projects/python_projects/nlp/HMM.py",
+		"/home/tangzl/cqu/projects/python_projects/d_cache.v",
+		"/media/tangzl/DATA/CQU/Junior1/系统结构/experiment/write_back_d_cache.v",
+		"/media/tangzl/DATA/CQU/Junior1/系统结构/experiment/LRU_d_cache.v",
+		"/home/tangzl/cqu/projects/python_projects/machinelearning/svc.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								960,
+								960
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"is_init_dirty_state": false,
+							"open_with_edit": true,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 96.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 295.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "LeetCode.sublime-workspace.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
