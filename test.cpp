@@ -3,15 +3,15 @@ using namespace std;
 
 class Solution {
 public:
-    bool isPalindrome(int x) {
-    	int y = 0;
-    	if (x < 0) return false;
-    	while(x > y) {
-    		y = y*10 + x%10;
-    		x /= 10;
+    int maxArea(vector<int>& height) {
+    	int result = 0;
+    	int l=0, r=height.size()-1;
+    	while(l < r) {
+    		result = max(result, min(height[l], height[r])*(r-l));
+    		if (height[l] < height[r]) l++;
+    		else r--;
     	}
-    	if (x == y || x == y/10) return true;
-    	return false;
+    	return result;
     }
 };
 
