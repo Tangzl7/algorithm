@@ -1,69 +1,8 @@
-// #include <bits/stdc++.h>
-// using namespace std;
+/*******
 
-// #define MAXN 100010
+加法线段树模板
 
-// struct node {
-//     long long l, r;
-//     long long sum, lz=0;
-// }tree[4*MAXN];
-
-
-// // 建树
-// void build(int i, int l, int r) {
-//     tree[i].l = l; tree[i].r = r;
-//     if (l == r) {
-//         tree[i].sum = a[l];
-//         return;
-//     }
-//     int mid = (l+r) >> 1;
-//     build(i*2, l, mid);
-//     build(i*2+1, mid+1, r);
-//     tree[i].sum = tree[i*2].sum + tree[i*2+1].sum;
-// }
-
-
-// // 区间修改
-// void add(int i, int l, int r, int k) {
-//     if (tree[i].r <= r && tree[i].l >= l) {
-//         tree[i].sum += k*(tree[i].r - tree[i].l + 1)
-//         tree[i].lz += k;
-//         return;
-//     }
-//     push_down(i);
-//     if (tree[i*2].r >= l) add(i*2, l, r, k);
-//     if (tree[i*2+1].l <= r) add(i*2+1, l, r, k);
-//     tree[i].sum = tree[i*2].sum + tree[i*2+1].sum;
-//     return;
-// }
-
-// void push_down(int i) {
-//     if (tree[i].lz != 0) {
-//         tree[i*2].lz += tree[i].lz;
-//         tree[i*2+1].lz += tree[i].lz;
-//         int mid = (tree[i].l + tree[i].r) / 2;
-//         tree[i*2].sum += tree[i].lz*(mid-tree[i*2].l+1);
-//         tree[i*2+1].sum += tree[i].lz*(tree[i*2+1].r-mid);
-//         tree[i].lz = 0;
-//     }
-//     return;
-// }
-
-// // 单点/区间 查询
-// int search(int i, int l, int r) {
-//     if (tree[i].l >= l && tree[i].r <= r)
-//         return tree[i].sum;
-//     if (tree[i].r <l || tree[i].l > r) return 0;
-//     push_down(i);
-//     int s = 0;
-//     if (tree[i*2].r >= l) s+=search(i*2, l, r);
-//     if (tree[i*2+1].l <= r) s+=search(i*2+1, l, r);
-//     return s;
-// }
-
-// int main() {
-//     return 0;
-// }
+*******/
 
 #include<bits/stdc++.h>
 using namespace std;
