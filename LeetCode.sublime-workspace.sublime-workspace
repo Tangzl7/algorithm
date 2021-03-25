@@ -4,16 +4,28 @@
 		"selected_items":
 		[
 			[
+				"ope",
+				"operator_update"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"find",
+				"find_index"
+			],
+			[
+				"res",
+				"result_2"
+			],
+			[
 				"bfs",
 				"bfs_to_dis"
 			],
 			[
 				"p",
 				"point"
-			],
-			[
-				"pa",
-				"parameter_finished"
 			],
 			[
 				"loc",
@@ -78,10 +90,6 @@
 			[
 				"index",
 				"index1"
-			],
-			[
-				"res",
-				"resutl"
 			],
 			[
 				"l",
@@ -506,14 +514,6 @@
 			[
 				"wo",
 				"words\tstatement"
-			],
-			[
-				"mx",
-				"max_prob\tstatement"
-			],
-			[
-				"ini",
-				"init_road\tfunction"
 			]
 		]
 	},
@@ -523,19 +523,18 @@
 			"file": "test.cpp",
 			"settings":
 			{
-				"buffer_size": 2862,
+				"buffer_size": 643,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ",
+			"file": "模拟/csp_202012-3.cpp",
 			"settings":
 			{
-				"buffer_size": 89,
-				"line_ending": "Unix",
-				"name": "Login Shell",
-				"scratch": true
+				"buffer_size": 6201,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -684,11 +683,16 @@
 	"expanded_folders":
 	[
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode",
-		"/home/tangzl/cqu/projects/c++_projects/LeetCode/数据结构",
-		"/home/tangzl/cqu/projects/c++_projects/LeetCode/数据结构/双指针"
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/图论",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/图论/线段树",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/模拟"
 	],
 	"file_history":
 	[
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/模拟/csp_202012-3.cpp",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/图论/线段树/luogu_P3373.cpp",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/图论/线段树/csp_202012-5.cpp",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/图论/线段树/luogu_P3372.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/动态规划/ccf-201312-4.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/模拟/1737medium.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/test.cpp",
@@ -812,11 +816,7 @@
 		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/parameter/transfer_probability.txt",
 		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/pinyin2hanzi.txt",
 		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/parameter/emissions.txt",
-		"/home/tangzl/cqu/projects/python_projects/fpga/lab2.py",
-		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/lexicon.txt",
-		"/home/tangzl/下载/lexicon.txt",
-		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/toutiao_data.txt",
-		"/home/tangzl/cqu/projects/python_projects/nlp"
+		"/home/tangzl/cqu/projects/python_projects/fpga/lab2.py"
 	],
 	"find":
 	{
@@ -834,6 +834,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"rot",
+			"rot_node",
 			"ignore",
 			"dp[i+1][6]",
 			"vis2",
@@ -864,15 +866,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2862,
+						"buffer_size": 643,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								73,
-								73
+								513,
+								513
 							]
 						],
 						"settings":
@@ -882,27 +884,12 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										74,
-										75
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										58,
-										59
-									]
 								},
 								"unmatched":
 								{
@@ -910,16 +897,11 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -930,31 +912,26 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -964,7 +941,17 @@
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_regex_content"
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
 							],
 							"is_init_dirty_state": false,
 							"origin_encoding": "ASCII",
@@ -981,88 +968,118 @@
 				},
 				{
 					"buffer": 1,
-					"semi_transient": false,
+					"file": "模拟/csp_202012-3.cpp",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 89,
+						"buffer_size": 6201,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								89,
-								89
+								756,
+								756
 							]
 						],
 						"settings":
 						{
-							"__vi_external_disable": true,
-							"auto_complete": false,
-							"auto_complete_commit_on_tab": false,
 							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone_locations":
+							"bracket_highlighter.locations":
 							{
-							},
-							"bracket_highlighter.ignore": true,
-							"color_scheme": "Terminus.hidden-color-scheme",
-							"default_dir": "/home/tangzl/cqu/projects/c++_projects/LeetCode",
-							"draw_centered": false,
-							"draw_indent_guides": false,
-							"draw_unicode_white_space": false,
-							"draw_white_space": "none",
-							"gutter": false,
-							"highlight_line": false,
-							"is_init_dirty_state": false,
-							"is_widget": true,
-							"result_base_dir": "/home/tangzl/cqu/projects/c++_projects/LeetCode",
-							"result_file_regex": null,
-							"result_line_regex": null,
-							"rulers":
-							[
-								500
-							],
-							"scroll_past_end": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"terminus.highlight_counter": 710,
-							"terminus_view": true,
-							"terminus_view.args":
-							{
-								"auto_close": true,
-								"cancellable": false,
-								"cmd":
-								[
-									"/bin/bash",
-									"-i",
-									"-l"
-								],
-								"config_name": "Login Shell",
-								"cwd": "/home/tangzl/cqu/projects/c++_projects/LeetCode",
-								"env":
+								"close":
 								{
-									"LANG": "zh_CN.UTF-8",
-									"TERM": "linux",
-									"TERMINUS_SUBLIME": "1",
-									"TERM_PROGRAM": "Terminus-Sublime"
+									"1":
+									[
+										755,
+										756
+									]
 								},
-								"file_regex": null,
-								"line_regex": null,
-								"panel_name": null,
-								"tag": null,
-								"timeit": false,
-								"title": null
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										607,
+										608
+									]
+								},
+								"unmatched":
+								{
+								}
 							},
-							"terminus_view.cancellable": false,
-							"terminus_view.key.ctrl+k": true,
-							"terminus_view.key.ctrl+p": true,
-							"terminus_view.natural_keyboard": true,
-							"terminus_view.panel_name": null,
-							"terminus_view.tag": null,
-							"terminus_view.viewport_y": 0.0,
-							"word_wrap": false
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 270.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
