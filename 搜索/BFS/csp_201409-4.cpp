@@ -1,51 +1,13 @@
-// #include <bits/stdc++.h>
-// using namespace std;
+/*************
 
-// struct node {
-//     int time=0;
-//     vector<int> neg, link[1005];
-// }nodes[505];
+最开始看到这个题，多个出发点到多个配送点，考虑是用三重循环的多源最短路，但由于n*n的网格，
+每个格子需要转化为一个节点，则达到10^6个节点，二维数组直接爆炸。只能拿30分。
+然后看题解说用bfs，我用bfs得到每个节点到配送点的最短距离，然后取每个节点到配送点的最小值，
+但是有10^6个餐厅，需要10^6次bfs，显然是错的。拿到40分。
+最后看题解bfs具体写法，发现是bfs开始直接把所有餐厅push进队列，这样每次找到配送点，可以
+直接计算这个配送的的花费，并且只需要一次bfs。拿到100分。
 
-// int vis[505]={0};
-
-// void query(int a, int b) {
-//     for (int i=0; i<nodes[a].link[b].size(); i++){
-//         if (i == 0) printf("%d", nodes[a].link[b][i]);
-//         else printf(" %d", nodes[a].link[b][i]);
-//     }
-//     printf("\n");
-// }
-
-// void bfs(int a, int b, int c, int t) {
-//     queue<node> q;
-//     q.push(nodes[a]);
-//     while(!q.empty()) {
-
-//     }
-// }
-
-// int main() {
-//     int n, m, u, v, t, k;
-//     cin >> n >> m;
-//     for (int i=0; i<m; i++) {
-//         cin >> u >> v;
-//         nodes[u].neg.push_back(v);
-//         nodes[v].neg.push_back(u);
-//     }
-//     cin >> t >> k;
-//     cin.get();
-//     string str;
-//     for (int i=0; i<k; i++) {
-//         int a, b, c;
-//         getline(cin, str);
-//         if (str.size()==5) c = str[4]-'0';
-//         a = str[0]-'0';
-//         b = str[2]-'0';
-//         if (str.size() == 3) query(a, b);
-//         else bfs(a, b, c, t);
-//     }
-//     return 0;
-// }
+*************/
 
 #include <bits/stdc++.h>
 using namespace std;

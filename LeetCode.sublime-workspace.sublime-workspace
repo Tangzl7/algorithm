@@ -4,6 +4,66 @@
 		"selected_items":
 		[
 			[
+				"cl",
+				"clear_vis"
+			],
+			[
+				"str",
+				"struct\tstruct"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"tr",
+				"trans_s"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"trans",
+				"trans_s"
+			],
+			[
+				"now",
+				"now_num"
+			],
+			[
+				"nod",
+				"nodes"
+			],
+			[
+				"push",
+				"push_back"
+			],
+			[
+				"pus",
+				"push_back"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"eq",
+				"equal"
+			],
+			[
+				"matr",
+				"matrix"
+			],
+			[
+				"ma",
+				"matrix_mult"
+			],
+			[
+				"mat",
+				"mat"
+			],
+			[
 				"ope",
 				"operator_update"
 			],
@@ -14,10 +74,6 @@
 			[
 				"find",
 				"find_index"
-			],
-			[
-				"res",
-				"result_2"
 			],
 			[
 				"bfs",
@@ -62,10 +118,6 @@
 			[
 				"dif",
 				"dif_cnt"
-			],
-			[
-				"str",
-				"string_to_int"
 			],
 			[
 				"mid",
@@ -462,58 +514,6 @@
 			[
 				"w",
 				"weights\tstatement"
-			],
-			[
-				"del",
-				"delta_b\tstatement"
-			],
-			[
-				"lay",
-				"layers_a\tstatement"
-			],
-			[
-				"seu",
-				"squeeze\tfunction"
-			],
-			[
-				"delta",
-				"delta_w\tstatement"
-			],
-			[
-				"la",
-				"layer\tstatement"
-			],
-			[
-				"sig",
-				"sigmoid_derivative\tfunction"
-			],
-			[
-				"getg",
-				"get_gini\tfunction"
-			],
-			[
-				"trans",
-				"transfer_sum\tstatement"
-			],
-			[
-				"wor",
-				"words_list\tstatement"
-			],
-			[
-				"tran",
-				"transfer_sum\tstatement"
-			],
-			[
-				"pr",
-				"print\tfunction"
-			],
-			[
-				"js",
-				"json_str\tstatement"
-			],
-			[
-				"wo",
-				"words\tstatement"
 			]
 		]
 	},
@@ -523,16 +523,7 @@
 			"file": "test.cpp",
 			"settings":
 			{
-				"buffer_size": 643,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "模拟/csp_202012-3.cpp",
-			"settings":
-			{
-				"buffer_size": 6201,
+				"buffer_size": 2351,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -683,15 +674,17 @@
 	"expanded_folders":
 	[
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode",
-		"/home/tangzl/cqu/projects/c++_projects/LeetCode/图论",
-		"/home/tangzl/cqu/projects/c++_projects/LeetCode/图论/线段树",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/模拟"
 	],
 	"file_history":
 	[
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/搜索/BFS/csp_201403-5.cpp",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/模拟/csp_201912-3.cpp",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/模拟/csp_201912-3",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/图论/线段树/csp_202012-5.cpp",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/数论/快速幂/csp_202006-4.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/模拟/csp_202012-3.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/图论/线段树/luogu_P3373.cpp",
-		"/home/tangzl/cqu/projects/c++_projects/LeetCode/图论/线段树/csp_202012-5.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/图论/线段树/luogu_P3372.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/动态规划/ccf-201312-4.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/模拟/1737medium.cpp",
@@ -812,15 +805,11 @@
 		"/home/tangzl/cqu/projects/python_projects/machinelearning/CART/test",
 		"/home/tangzl/cqu/projects/python_projects/machinelearning/BP/bp.py",
 		"/home/tangzl/cqu/projects/python_projects/machinelearning/BP/test.py",
-		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/tou.txt",
-		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/parameter/transfer_probability.txt",
-		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/pinyin2hanzi.txt",
-		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/parameter/emissions.txt",
-		"/home/tangzl/cqu/projects/python_projects/fpga/lab2.py"
+		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/tou.txt"
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
@@ -834,6 +823,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Map",
+			"m",
+			"note",
+			"fill",
+			"map",
+			"nodes",
+			"nodesd",
+			"routs",
+			"m",
 			"rot",
 			"rot_node",
 			"ignore",
@@ -866,121 +864,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 643,
+						"buffer_size": 2351,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								513,
-								513
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
-							],
-							"is_init_dirty_state": false,
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/C++/C++.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "模拟/csp_202012-3.cpp",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 6201,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								756,
-								756
+								1913,
+								1913
 							]
 						],
 						"settings":
@@ -992,8 +884,8 @@
 								{
 									"1":
 									[
-										755,
-										756
+										1912,
+										1913
 									]
 								},
 								"icon":
@@ -1008,8 +900,8 @@
 								{
 									"1":
 									[
-										607,
-										608
+										1528,
+										1529
 									]
 								},
 								"unmatched":
@@ -1023,6 +915,36 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -1033,56 +955,28 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
 							"syntax": "Packages/C++/C++.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 270.0,
+						"translation.y": 1039.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
