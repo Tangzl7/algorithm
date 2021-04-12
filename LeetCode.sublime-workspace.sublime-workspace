@@ -4,16 +4,32 @@
 		"selected_items":
 		[
 			[
+				"res",
+				"res2"
+			],
+			[
+				"maxe",
+				"max_e1"
+			],
+			[
+				"pri",
+				"primeFactors"
+			],
+			[
+				"po",
+				"point_24"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
 				"cl",
 				"clear_vis"
 			],
 			[
 				"str",
 				"struct\tstruct"
-			],
-			[
-				"res",
-				"result"
 			],
 			[
 				"tr",
@@ -126,10 +142,6 @@
 			[
 				"inde",
 				"index2"
-			],
-			[
-				"num",
-				"nums1"
 			],
 			[
 				"pu",
@@ -502,18 +514,6 @@
 			[
 				"ran",
 				"randint\tfunction"
-			],
-			[
-				"get",
-				"get_aggregation\tfunction"
-			],
-			[
-				"max",
-				"max_index\tstatement"
-			],
-			[
-				"w",
-				"weights\tstatement"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "test.cpp",
 			"settings":
 			{
-				"buffer_size": 2351,
+				"buffer_size": 253,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -673,11 +673,15 @@
 	},
 	"expanded_folders":
 	[
-		"/home/tangzl/cqu/projects/c++_projects/LeetCode",
-		"/home/tangzl/cqu/projects/c++_projects/LeetCode/模拟"
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode"
 	],
 	"file_history":
 	[
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/模拟/pta_25_多项式A除以B.cpp",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/数论/快速幂/1808hard.cpp",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/搜索/拓扑排序/csp_201712-5.cpp",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/搜索/最短路/csp_201712-4.cpp",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/搜索/BFS/csp_201409-4.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/搜索/BFS/csp_201403-5.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/模拟/csp_201912-3.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/模拟/csp_201912-3",
@@ -800,16 +804,11 @@
 		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/Viterbi.py",
 		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/HMM.py",
 		"/home/tangzl/cqu/projects/python_projects/machinelearning/LogisticRegression/logistic_regression_watermelon.py",
-		"/home/tangzl/cqu/projects/python_projects/machinelearning/CART/cart.py",
-		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/test.py",
-		"/home/tangzl/cqu/projects/python_projects/machinelearning/CART/test",
-		"/home/tangzl/cqu/projects/python_projects/machinelearning/BP/bp.py",
-		"/home/tangzl/cqu/projects/python_projects/machinelearning/BP/test.py",
-		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/tou.txt"
+		"/home/tangzl/cqu/projects/python_projects/machinelearning/CART/cart.py"
 	],
 	"find":
 	{
-		"height": 42.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -864,15 +863,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2351,
+						"buffer_size": 253,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1913,
-								1913
+								105,
+								105
 							]
 						],
 						"settings":
@@ -884,8 +883,8 @@
 								{
 									"1":
 									[
-										1912,
-										1913
+										173,
+										174
 									]
 								},
 								"icon":
@@ -900,8 +899,8 @@
 								{
 									"1":
 									[
-										1528,
-										1529
+										66,
+										67
 									]
 								},
 								"unmatched":
@@ -910,41 +909,6 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -955,16 +919,51 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
 							],
 							"is_init_dirty_state": false,
 							"origin_encoding": "ASCII",
@@ -973,7 +972,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1039.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
