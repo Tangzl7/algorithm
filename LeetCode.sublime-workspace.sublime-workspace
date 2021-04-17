@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"cos",
+				"cost2"
+			],
+			[
 				"res",
 				"res2"
 			],
@@ -510,10 +514,6 @@
 			[
 				"shu",
 				"shuffle_data\tfunction"
-			],
-			[
-				"ran",
-				"randint\tfunction"
 			]
 		]
 	},
@@ -523,9 +523,19 @@
 			"file": "test.cpp",
 			"settings":
 			{
-				"buffer_size": 253,
+				"buffer_size": 914,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ g++ -g test.cpp -o out                                       \n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out                                                        \n4\n3\n1 1 1\n1 \n \n\n^C\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ g++ -g test.cpp -o out\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out                                                        \n4\n3\n1 1 1\n1 1 1\n^C\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n4\n3\n1 1 2\n1 1 2\n3\n1 1 1\n1 1 1\n8\n10 9 13 15 3 16 9 13\n3 9 9 10 13 13 15 16\n^C\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ^C\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ g++ -g test.cpp -o out\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out                                                        \n4\n3\n1 1 2\n1 1 2\n3\n1 1 1\n1 1 1\n8\n10 9 13 15 3 16 9 13\n9 13 15 3 9 13 10 16\n2\n18 9\n9 18\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ g++ -g test.cpp -o out\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n5\n3\nTMT\nYES\nMTT\nYES\nYES\nYES\nYES\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n5\n3\nTMT\nYES\n3\nMTT\nNO\n6\nTMTMTT\nNO\n6\nTTMMTT\nYES\nTMTTTT\nYES\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ g++ -g test.cpp -o out\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out                                                        \n5\n3\nTMT\nYES\n3\nMTT\nNO\n6\nTMTMTT\nYES\n6\nTMTTTT\nNO\n6\nTTMMTT\nYES\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ g++ -g test.cpp -o out\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out                                                        \n100\n3\nTTT\nNO\nMMM\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ g++ -g test.cpp -o out\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out                                                        \n100\n3\nTTT\nNO\n3\nMMM\nNO\nTMT\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ g++ -g test.cpp -o out\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out                                                        \n1000\n3   \nTTT\nNO\nTMTT\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ g++ -g test.cpp -o out\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out                                                        \n1000\n4\nTMTM\nNO\n3\nTTT\nNO\n3\nMTM\nNO\n3\nMMM\nNO\n0\n\nT\nNO\n6\nTTTMMM\nNO\n3\nMTM\nNO\n6\nTTMMTT\nYES\n6\nTMTMTT\nYES\n6 \nTMTTTT\nNO\n3\nTTT\nNO\n6\nTMTTMT\nYES\n^C\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n^C\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n5\n3\nTMT\n3\nMTT\n6\nTMTMTT\n6\nTMTTTT\n6\nTTMMTT\nYES\nNO\nYES\nNO\nYES\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n10\n3\nTTM\nYES\n^C\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ g++ -g test.cpp -o out\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out                                                        \n5\n3\nTMT\n3\nMTT\n6\nTMTMTT\n6\nTMTTTT\n6\nTTMMTT\nYES\nNO\nYES\nNO\nYES\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n5\n3\nTTM\nNO\nTMT\nNO\nNO\nNO\nNO\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n100\n3\nTTM\nNO\n3\nTMT\nYES\n3\nMMT\nNO\n3\nTTT\nNO\n3\nMMM\nNO\n6\nTTMTTT\nNO\n9\nTMTTMTTMT\nNO\n^C\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ g++ -g test.cpp -o out\ntest.cpp: In function ‘int main()’:                                      \ntest.cpp:35:13: error: redeclaration of ‘int have’                       \n   35 |         int have=0, need=0, flag=0;                              \n      |             ^~~~                                                 \ntest.cpp:16:13: note: ‘int have’ previously declared here                \n   16 |         int have=0, need=0, flag=0;                              \n      |             ^~~~                                                 \ntest.cpp:35:21: error: redeclaration of ‘int need’                       \n   35 |         int have=0, need=0, flag=0;                              \n      |                     ^~~~                                         \ntest.cpp:16:21: note: ‘int need’ previously declared here                \n   16 |         int have=0, need=0, flag=0;                              \n      |                     ^~~~                                         \ntest.cpp:35:29: error: redeclaration of ‘int flag’                       \n   35 |         int have=0, need=0, flag=0;                              \n      |                             ^~~~                                 \ntest.cpp:16:29: note: ‘int flag’ previously declared here                \n   16 |         int have=0, need=0, flag=0;                              \n      |                             ^~~~                                 \n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ g++ -g test.cpp -o out\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n5\n3\nTMT\n3\nMTT\n6\nTMTMTT\n6\nTMTTTT\n6\nTTMMTT\nYES\nNO\nYES\nYES\nNO\nYES\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n5\n3\nTMT\nYES\n3\nMTT\nNO\nYES\n5\n3\nTMT\n3\nMTT\n6\nTMTMTT\n6\nTMTTTT\n6\nTTMMTT\nNO\nNO\nNO\nNO\nNO\nNO\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ 3\n3：未找到命令\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ MTT\nMTT：未找到命令\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ 6\n6：未找到命令\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ TMTMTT\nTMTMTT：未找到命令\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ 6\n6：未找到命令\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ TMTTTT\nTMTTTT：未找到命令\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ 6\n6：未找到命令\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ TTMMTT\nTTMMTT：未找到命令\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ g++ -g test.cpp -o out                                      \n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out                                                        \n5\n3\nTMT\n3\nMTT\n6\nTMTMTT\n6\nTMTTTT\n6\nTTMMTT\nYES\nNO\nYES\nNO\nYES\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n5\n3\nTTM\nNO\nMMT\nNO\nNO\nNO\nNO\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n5\n3\nTTM\nNO\n3\nMMT\nNO\nTMT\nNO\nNO\nNO\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ g++ -g test.cpp -o out\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out                                                        \n3\n3 1 2\n3\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n1\n5\n0\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n6\n1 6 3 3 6 3\n11\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n6\n104 943872923 6589 889921234 1000000000 69\n2833800505\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n6\n3 3 3 6 6 6\n9\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ g++ -g test.cpp -o out\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out                                                        \n3\n3 1 2\n3\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n1\n5\n0\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n6\n1 6 3 3 6 3\n14\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ g++ -g test.cpp -o out\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out                                                        \n6\n1 6 3 3 6 3\n14\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ g++ -g test.cpp -o out\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out                                                        \n6\n1 6 3 3 6 3\n11\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ./out\n6\n104 943872923 6589 889921234 1000000000 69\n2833800505\n(base) tangzl@tangzl-TUF-GAMING-FX504GE-FX80GE:~/cqu/projects/c++_project​‌​\ns/LeetCode$ ",
+			"settings":
+			{
+				"buffer_size": 13188,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
 			}
 		}
 	],
@@ -677,6 +687,13 @@
 	],
 	"file_history":
 	[
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/数论/素数/cf_edu_107_B.cpp",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/LeetCode.sublime-workspace.sublime-project",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/test.cpp",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/搜索/二分/USACO_愤怒的牛.cpp",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/数据结构/二叉树/pta_25_这是二叉搜索树吗.cpp",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/数据结构/二叉树/pta_25_玩转二叉树.cpp",
+		"/home/tangzl/cqu/projects/c++_projects/LeetCode/思维/pta_25_列车调度.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/模拟/pta_25_多项式A除以B.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/数论/快速幂/1808hard.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/搜索/拓扑排序/csp_201712-5.cpp",
@@ -692,11 +709,9 @@
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/图论/线段树/luogu_P3372.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/动态规划/ccf-201312-4.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/模拟/1737medium.cpp",
-		"/home/tangzl/cqu/projects/c++_projects/LeetCode/test.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/图论/并查集/1722medium.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/数据结构/双指针/11medium.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/其他/9easy.cpp",
-		"/home/tangzl/cqu/projects/c++_projects/LeetCode/LeetCode.sublime-workspace.sublime-project",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/数论/模运算/1018easy.cpp",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/program",
 		"/home/tangzl/cqu/projects/c++_projects/LeetCode/program.cpp",
@@ -799,12 +814,7 @@
 		"/home/tangzl/cqu/projects/python_projects/machinelearning/LogisticRegression/logistic_regression_iris.py",
 		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/测试集.txt",
 		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/parameter/words_transfer_prob.json",
-		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/parameter/init_prob_1.json",
-		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/parameter/words_transfer_prob_1.json",
-		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/Viterbi.py",
-		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/HMM.py",
-		"/home/tangzl/cqu/projects/python_projects/machinelearning/LogisticRegression/logistic_regression_watermelon.py",
-		"/home/tangzl/cqu/projects/python_projects/machinelearning/CART/cart.py"
+		"/home/tangzl/cqu/projects/python_projects/nlp/HMM/parameter/init_prob_1.json"
 	],
 	"find":
 	{
@@ -863,15 +873,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 253,
+						"buffer_size": 914,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								105,
-								105
+								428,
+								428
 							]
 						],
 						"settings":
@@ -883,8 +893,8 @@
 								{
 									"1":
 									[
-										173,
-										174
+										427,
+										428
 									]
 								},
 								"icon":
@@ -899,8 +909,8 @@
 								{
 									"1":
 									[
-										66,
-										67
+										370,
+										371
 									]
 								},
 								"unmatched":
@@ -909,61 +919,61 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content"
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
 							],
 							"is_init_dirty_state": false,
 							"origin_encoding": "ASCII",
@@ -976,6 +986,94 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13188,
+								13188
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"default_dir": "/home/tangzl/cqu/projects/c++_projects/LeetCode",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"result_base_dir": "/home/tangzl/cqu/projects/c++_projects/LeetCode",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 222,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"/bin/bash",
+									"-i",
+									"-l"
+								],
+								"config_name": "Login Shell",
+								"cwd": "/home/tangzl/cqu/projects/c++_projects/LeetCode",
+								"env":
+								{
+									"LANG": "zh_CN.UTF-8",
+									"TERM": "linux",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.panel_name": null,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 24195.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 24195.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
